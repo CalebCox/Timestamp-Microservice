@@ -1,0 +1,25 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "This is a Timestamp Microservice for FreeCodeCamps Back-End certification",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb Cox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CalebCox/Timestamp-Microservice.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "freecodecamp"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
